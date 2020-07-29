@@ -1,5 +1,0 @@
-#!/bin/sh
-
-icon=""
-date=$(date '+%b %d (%a) %I:%M')
-printf "%s %s ", "$icon" "$date"
