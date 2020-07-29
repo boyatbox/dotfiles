@@ -1,4 +1,4 @@
 # dotfiles
 Tools:
-Image viewer: sxiv
+Image viewer: sxiv  
 PDF viewer: mupdf,zathura
