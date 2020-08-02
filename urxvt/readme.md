@@ -1,7 +1,7 @@
 Reload resource file and relaunch urxvt to see changes applied to .Xresource  
 xrdb ~/.Xresources
 
-###Powerline-shell:#  
+### Powerline-shell: #
 https://github.com/powerline/fonts  
 
 **Intsall powerline-shell:**  
