@@ -27,4 +27,9 @@ if [[ $TERM != linux && ! $PROMPT_COMMAND =~ _update_ps1 ]]; then
 fi
 ```
 
+**Install Nerd Font - powerline glyph fix**
+1. Download a Nerd font
+https://github.com/ryanoasis/nerd-fonts#option-1-download-and-install-manually
+2. Unzip and copy to ~/.fonts
+3. Run the command fc-cache -fv to manually rebuild the font cache
 
