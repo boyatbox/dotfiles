@@ -8,10 +8,10 @@ https://github.com/powerline/fonts
 sudo pip3 install powerline-shell  
 
 **Generate config:**  
-
+```
 mkdir -p ~/.config/powerline-shell && \
 powerline-shell --generate-config > ~/.config/powerline-shell/config.json
-
+```
 **Update .bashrc:**  
 
 Append the folowing to .bashrc file
